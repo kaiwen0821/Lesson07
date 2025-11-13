@@ -9,6 +9,7 @@
     <mapping directory="$PROJECT_DIR$/Lesson05/L5" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson06/L6" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson07/L7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lesson08/L8" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MusicApp/musickw" vcs="Git" />
   </component>
 </project>
